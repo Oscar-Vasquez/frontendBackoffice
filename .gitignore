@@ -1,0 +1,10 @@
+# No subir dependencias ni build
+node_modules/
+.next/
+out/
+dist/
+
+# IDEs y sistema
+.DS_Store
+.vscode/
+.env*
